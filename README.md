@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shyam kr. sharma
-- 👀 I’m interested in Full Stack Web Development
-- 🌱 I’m currently doing Web Development.
+- 👀 I skilled in MERN Stack and React Native
+- 🌱 I’m currently doing App Development using React Native.
 - 💞️ I’m looking to collaborate on projects.
 
 
